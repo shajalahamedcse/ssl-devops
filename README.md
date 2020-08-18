@@ -17,4 +17,7 @@
 ## Docker Build:
 	
 	$ docker build -t DOCKERHUB_USERNAME/IMAGE_NAME:TAG .
+
+## Docker Run:
+
 	$ docker run -d -p PORT:PORT DOCKERHUB_USERNAME/IMAGE_NAME:TAG
